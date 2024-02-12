@@ -1,0 +1,26 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+footer a{
+    color: black;
+    margin-right: 15px;
+}
+
+@media (max-width: 575.98px){
+    #menu ul li a{
+        padding-left: 10px;
+    }
+
+    button.botao-icone{
+        width: 50%;
+        margin: 0px auto;
+    }
+
+    li.btn-entrar button{
+        width: 100%;
+    }
+
+
+}
